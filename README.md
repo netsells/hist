@@ -1,5 +1,7 @@
 # Hist
 
+[![](https://jitpack.io/v/netsells/hist.svg)](https://jitpack.io/#netsells/hist)
+
 Hist is a "tree" for [Timber](https://github.com/JakeWharton/timber) which sends logs to Logstash.
 
 ## Usage
