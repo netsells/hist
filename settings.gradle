@@ -1,0 +1,3 @@
+rootProject.name='Hist'
+include ':example'
+include ':hist'
